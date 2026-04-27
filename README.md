@@ -25,15 +25,6 @@ Sou entusiasta da tecnologia e da resolução de problemas através da programa�
 
 ---
 
-## ✨ Curiosidades
-
-- 🧩 Amo desafios de lógica <br/>
-- 🎧 Gosto de ouvir música, assistir séries, jogar videogame e explorar novas playlists enquanto codifico <br/>
-- 📚 Sempre estudando novas linguagens e arquiteturas de software <br/>
-- 🧠 Valorizo código limpo, reutilizável e bem documentado
-
----
-
 ## 📬 Vamos conversar?
 
 Conecte-se comigo e acompanhe meus projetos em desenvolvimento: <br/><br/>
@@ -42,8 +33,6 @@ Conecte-se comigo e acompanhe meus projetos em desenvolvimento: <br/><br/>
 - 💼 https://www.linkedin.com/in/roberta-barbosa-da-silva-
 
 ---
-
-🔍 *"Transformando ideias em soluções com lógica e código."*
 
 
 
